@@ -1,0 +1,285 @@
+/* スマートフォンの画面サイズ */
+/*------------------------------------------
+  Responsive Grid Media Queries - 1280, 1024, 768, 480
+   1280-1024   - デスクトップ（デフォルトのグリッド）
+   1024-768    - タブレット横長
+   768-480     - タブレット縦長
+   480-less    - スマホ
+--------------------------------------------*/
+@media all and (min-width: 1024px) and (max-width: 1280px) { 
+
+
+}
+ 
+@media all and (min-width: 768px) and (max-width: 1024px) {
+/* spring-itemのレスポンシブ */
+.spring-title{
+  background-size:400px;
+}
+
+.spring-title h1{
+  margin-top:60px;
+  font-size:80px;
+}
+
+
+/* summer-itemのレスポンシブ */
+.summer-title{
+  background-size:400px;
+}
+
+.summer-title h1{
+  margin-top:60px;
+  font-size:80px;
+}
+
+/* autumn-itemのレスポンシブ */
+.autumn-title{
+  background-size:400px;
+}
+
+.autumn-title h1{
+  margin-top:60px;
+  font-size:80px;
+}
+
+/* winter-itemのレスポンシブ */
+.winter-title{
+  background-size:400px;
+}
+
+.winter-title h1{
+  margin-top:60px;
+  font-size:80px;
+}
+
+
+
+ }
+
+
+
+
+
+
+
+
+@media all and (min-width: 480px) and (max-width: 768px) { 
+/* springのレスポンシブ */
+.spring-title{
+  background-size:300px;
+}
+.spring-title h1{
+  margin-top:75px;
+  font-size:60px;
+}
+
+
+
+}
+ 
+@media all and (max-width: 480px) { 
+ /* トップのレスポンシブ */
+ 
+  .header h1{
+    font-size:40px;
+    text-align: center;
+  }
+  .header{
+  height:auto;
+  }
+
+.main-wrapper{
+  text-align: center;
+}
+  .main-wrapper-title p{
+    font-size:40px;
+    width: 100%;
+    text-align: center;
+    margin-top:230px;
+  }
+
+  .btn-icon{
+    width:100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size :20px;
+  }
+
+  .main-wrapper-btn{
+    text-align: center;
+  }
+
+
+.main-wrapper{
+  background-image:url(../img/phone-main.jpeg);
+}
+
+.first-Paragraph{
+  padding:25px 0;
+}
+
+
+.paragraphs{
+  width: 100%;
+}
+
+.Personal-color{
+  height: auto;
+}
+
+.personal-color-icons img{
+
+  display: inline-block;
+  text-align: center;
+  padding: 50px 50px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+/* 全パーソナルカラーの説明レスポンシブ（共通） */
+
+.atmosphere h1 {
+    text-align:center;
+}
+
+.atmosphere li{
+    text-align: center;
+}
+
+.skin{
+    text-align: center;
+}
+
+
+.eyes{
+    text-align: center;
+}
+
+.hair{
+    text-align: center;
+}
+
+
+
+
+
+/* springのレスポンシブ */
+
+.spring-title{
+  width:100%;
+  margin-top:50px;
+  background-size:320px;
+}
+.spring-title h1{
+  margin-top:80px;
+  font-size:50px;
+}
+
+
+.spring-color{
+    text-align: center;
+}
+
+.spring-color img{
+    width: 70%;
+
+}
+
+.springcolor h1{
+    text-align: center;
+}
+
+
+/* summerのレスポンシブ */
+
+.summer-title{
+  width:100%;
+  margin-top:50px;
+  background-size:320px;
+}
+.summer-title h1{
+  margin-top:80px;
+  font-size:50px;
+}
+
+.summer-color{
+      text-align:center;
+  }
+  
+  .summer-color img{
+      width: 70%;
+  }
+  
+  
+  .summercolor h1{
+      text-align: center;
+  }
+
+
+
+
+
+/* autumnのレスポンシブ */
+
+.autumn-title{
+  width:100%;
+  margin-top:50px;
+  background-size:320px;
+}
+.autumn-title h1{
+  margin-top:80px;
+  font-size:50px;
+}
+
+.autumn-color{
+  text-align: center;
+}
+
+.autumn-color img{
+  width: 70%;
+}
+
+
+.autumncolor h1{
+  text-align: center;
+}
+
+
+
+/* winterのレスポンシブ */
+
+.winter-title{
+  width:100%;
+  margin-top:50px;
+  background-size:320px;
+}
+.winter-title h1{
+  margin-top:80px;
+  font-size:50px;
+}
+.winter-color{
+  text-align: center;
+}
+
+.winter-color img{
+  width: 70%;
+}
+
+
+.wintercolor h1{
+  text-align: center;
+}
+
+
+
+}
+
+
+
+
+
+

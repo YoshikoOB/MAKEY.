@@ -1,0 +1,113 @@
+.spring-title{
+    background-image: url(../img/spring-background.png);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size:500px;
+    background-position: center;
+    text-align:center;
+    margin-top:210px;
+
+}
+
+.summer-title{
+    background-image: url(../img/summer-background.png);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size:500px;
+    background-position: center;
+    text-align:center;
+    margin-top:210px;
+   
+
+}
+
+.autumn-title{
+    background-image: url(../img/autumn-background.png);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size:500px;
+    background-position: center;
+    text-align:center;
+    margin-top:210px;
+  
+
+}
+
+.winter-title{
+    background-image: url(../img/winter-background.png);
+    background-repeat: no-repeat;
+    height: 260px;
+    background-size :500px;
+    background-position: center;
+    text-align:center;
+    margin-top:210px;
+
+}
+
+
+
+.spring-title h1{
+    font-size:90px;
+    margin-top:50px;
+    color:white;
+    font-family: 'Copperplate','Sitka Display','Savoye LET',sans-serif;
+
+}
+
+.summer-title h1{
+    font-size:90px;
+    margin-top:50px;
+    color:white;
+    font-family: 'Copperplate','Sitka Display','Savoye LET',sans-serif;
+
+}
+
+
+.autumn-title h1{
+    font-size:90px;
+    margin-top:50px;
+    color:white;
+    font-family: 'Copperplate','Sitka Display','Savoye LET',sans-serif;
+
+}
+
+.winter-title h1{
+    font-size:90px;
+    margin-top:50px;
+    color:white;
+    font-family: 'Copperplate','Sitka Display','Savoye LET',sans-serif;
+
+}
+
+.Features h1{
+    padding-top:20px;
+}
+
+.spring-color{
+    margin:20px 0;
+}
+
+.spring-color img{
+    margin-bottom:20px;
+}
+
+
+.atmosphere li{
+    list-style:none;
+
+}
+
+.skin li{
+    list-style:none;
+
+}
+
+.eyes li{
+    list-style:none;
+
+}
+
+.hair li{
+    list-style:none;
+
+}

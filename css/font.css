@@ -1,0 +1,29 @@
+*{
+font-family:'TsukuBRdGothic-Regular',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+
+}
+
+.header h1{
+	font-family:'Copperplate';
+}
+
+.first-Paragraph span{
+	font-family:'Copperplate';
+}
+
+.first-Paragraph h1{
+	font-weight:bold;
+}
+
+.Second-Paragraph h1{
+	font-weight:bold;
+}
+
+.Personal-color h1{
+	font-weight:bold;
+
+}
+
+.items-title h1{
+	font-weight:bold;
+}

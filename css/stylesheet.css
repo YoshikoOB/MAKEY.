@@ -1,0 +1,199 @@
+
+.header {
+  height: 178px;
+  width: 100%;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 100px;
+}
+
+
+.main-wrapper{
+  background-image: url("../img/main.png");
+  background-size: cover;
+  background-position:  center;
+  height:680px;
+}
+.main-wrapper-contents{
+  float: right;
+
+}
+.main-wrapper-title{
+  font-size: 5em;
+  padding-top: 200px;
+  color: white;
+  padding-right:60px;
+  text-align: center;
+  
+}
+
+.btn-icon {
+  display: inline-block;
+  background-color:black;
+  font-size: 35px;
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 15px 27px 15px 27px;
+  border-radius: 4px;
+  transition: .3s;
+}
+
+.btn-icon:hover {
+  transform: translate3d(0, 5px, 0);
+  color: black;
+  background: #fff;
+}
+
+
+.main-wrapper-btn{
+  float:right;
+  margin-right:175px;
+}
+
+.middle-wrapper {
+  padding: 100px 50px 0 50px;
+  margin-bottom: 100px;
+}
+
+.first-Paragraph h1 {
+  text-align: center;
+  font-size: 52px;
+}
+
+.first-Paragraph p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.first-Paragraph {
+  text-align: center;
+}
+
+.orange-rip img {
+  float: left;
+  display: block;
+  width: 100%;
+}
+
+.woman-rips img {
+  float: right;
+  display: block;
+  width: 100%;
+}
+
+.Second-Paragraph img {
+  width: 200px;
+}
+
+.Second-Paragraph h1{
+  font-size:52px;
+}
+
+.Second-Paragraph p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.Second-Paragraph {
+  background-image: url("../img/rip-mark1.png");
+  background-repeat: no-repeat;
+  height: 500px;
+  background-size: 40en;
+  background-position: center;
+}
+
+.paragraphs {
+  padding-top:120px;
+}
+
+.paragraphs h1 {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.paragraphs p {
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.Second-Paragraph h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Personal-color {
+  background-color: black;
+  width: 100%;
+  height: 570px;
+  margin-bottom: 20px;
+  margin-top:100px;
+}
+
+.personal-color-icons{
+  padding-bottom: 50px;
+}
+
+.spring-icon:hover {
+  transform: translate3d(0, 10px, 0);
+  
+}
+
+.summer-icon:hover {
+  transform: translate3d(0, 10px, 0);
+}
+
+.autumn-icon:hover {
+  transform: translate3d(0, 10px, 0);
+  
+}
+
+.winter-icon:hover {
+  transform: translate3d(0, 10px, 0);
+  
+}
+
+.season-btn {
+  width: 100%;
+  transition: .3s;
+}
+
+.Personal-color h1 {
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+.items-title {
+  padding-top: 180px;
+}
+
+.items-wrapper {
+  background-image: url("../img/rip-mark2.png");
+  background-repeat: no-repeat;
+  height: 500px;
+  background-size: 40en;
+  background-position: center;
+  margin-top:100px;
+}
+
+.items-title h1 {
+  background: rgba(255, 255, 255, 0.7);
+  text-align: center;
+}
+
+.items-icon {
+  text-align: center;
+  padding:100px 300px;
+}
+
+/* 画面が小さくなった時items-iconのpadding調節 */
+
+.item-contents{
+  width:50%;
+
+}
+.item-contents a{
+  widows: 50px;
+}
