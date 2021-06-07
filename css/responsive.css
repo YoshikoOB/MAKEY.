@@ -33,6 +33,11 @@
     padding-top: 180px;
   }
 
+  .tab-btn img{
+    width:100%;
+    
+    }
+    
 }
 
 
@@ -66,13 +71,15 @@
   }
 
   .items-title {
-    padding-top: 180px;
+    padding-top: 30px;
   }
 
   .tab-btn img{
     width:100%;
     
     }
+
+      
     
 
 }
