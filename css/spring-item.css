@@ -1,7 +1,7 @@
 
 
 .title h1{
-    font-size: 65px;
+    font-size: 50px;
     color: white;
     text-align: center;
     background-color: black;
@@ -19,12 +19,16 @@
 
 }
 
+.first-image img{
+    height: 300px;
+}
+
 .second-item{
     margin-top:70px;
 }
 
 .second-image img{
-    height: 498px;
+    height: 300px;
 }
 
 
@@ -34,3 +38,53 @@
 .second-paragraphs{
     font-size:23px;
 }
+
+footer{
+    font-size: 13px;
+
+}
+
+/*------------------------------------------
+  Responsive Grid Media Queries - 1280, 1024, 768, 480
+   1280-1024   - デスクトップ（デフォルトのグリッド）
+   1024-768    - タブレット横長
+   768-480     - タブレット縦長
+   480-less    - スマホ
+--------------------------------------------*/
+@media all and (min-width: 1024px) and (max-width: 1280px) { }
+ 
+@media all and (min-width: 768px) and (max-width: 1024px) { }
+ 
+@media all and (min-width: 480px) and (max-width: 768px) { }
+ 
+@media all and (max-width: 480px) {
+    .title h1{
+        font-size:30px;
+    }
+
+    .fist-paragraphs h2{
+        font-size:20px;
+
+    }
+
+    .second-paragraphs h2{
+        font-size:20px;
+    }
+
+    .fist-paragraphs p{
+        font-size:15px;
+
+    }
+
+    .second-paragraphs p{
+        font-size:15px;
+
+    }
+
+    footer{
+        font-size: 10px;
+    
+    }
+
+
+ }

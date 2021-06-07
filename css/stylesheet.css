@@ -16,15 +16,11 @@
   background-position:  center;
   height:680px;
 }
-.main-wrapper-contents{
-  float: right;
 
-}
 .main-wrapper-title{
   font-size: 5em;
   padding-top: 200px;
   color: white;
-  padding-right:60px;
   text-align: center;
   
 }
@@ -36,7 +32,6 @@
   color: #FFF;
   text-decoration: none;
   font-weight: bold;
-  padding: 15px 27px 15px 27px;
   border-radius: 4px;
   transition: .3s;
 }
@@ -48,10 +43,6 @@
 }
 
 
-.main-wrapper-btn{
-  float:right;
-  margin-right:175px;
-}
 
 .middle-wrapper {
   padding: 100px 50px 0 50px;
@@ -165,17 +156,15 @@
   padding: 40px;
 }
 
-.items-title {
-  padding-top: 180px;
-}
+
 
 .items-wrapper {
   background-image: url("../img/rip-mark2.png");
   background-repeat: no-repeat;
   height: 500px;
-  background-size: 40en;
+  background-size:600px;
   background-position: center;
-  margin-top:100px;
+  
 }
 
 .items-title h1 {
@@ -188,12 +177,9 @@
   padding:100px 300px;
 }
 
-/* 画面が小さくなった時items-iconのpadding調節 */
 
-.item-contents{
-  width:50%;
+.tab-btn img{
+  text-align: center;
+}
 
-}
-.item-contents a{
-  widows: 50px;
-}
+

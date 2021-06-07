@@ -91,6 +91,29 @@
     margin-bottom:20px;
 }
 
+.summer-color{
+    margin:20px 0;
+}
+
+.summer-color img{
+    margin-bottom:20px;
+}
+
+.autumn-color{
+    margin:20px 0;
+}
+
+.autumn-color img{
+    margin-bottom:20px;
+}
+
+.winter-color{
+    margin:20px 0;
+}
+
+.winter-color img{
+    margin-bottom:20px;
+}
 
 .atmosphere li{
     list-style:none;
@@ -111,3 +134,21 @@
     list-style:none;
 
 }
+
+.return-btn{
+        display: inline-block;
+        background-color:black;
+        font-size: 25px;
+        color: #FFF;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 4px;
+        transition: .3s;
+        
+        }
+
+.return-btn:hover {
+        transform: translate3d(0, 5px, 0);
+        color: black;
+        background: #fff;
+                }
