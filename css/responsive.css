@@ -386,7 +386,10 @@ width:100%;
   }
 
 
-
+  .return-btn{
+    margin-bottom:20px;
+    text-align: center;
+  }
 
 
 /* autumnのレスポンシブ */
@@ -414,7 +417,10 @@ width:100%;
   text-align: center;
 }
 
-
+.return-btn{
+  margin-bottom:20px;
+  text-align: center;
+}
 
 /* winterのレスポンシブ */
 
@@ -440,7 +446,10 @@ width:100%;
   text-align: center;
 }
 
-
+.return-btn{
+  margin-bottom:20px;
+  text-align: center;
+}
 
 
 
