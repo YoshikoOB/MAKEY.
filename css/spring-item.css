@@ -1,7 +1,7 @@
 
 
 .title h1{
-    font-size: 50px;
+    font-size: 23px;
     color: white;
     text-align: center;
     background-color: black;
@@ -59,7 +59,7 @@ footer{
  
 @media all and (max-width: 480px) {
     .title h1{
-        font-size:30px;
+        font-size:23px;
     }
 
     .fist-paragraphs h2{
